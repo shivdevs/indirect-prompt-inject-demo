@@ -14,7 +14,7 @@ The page is structurally identical to what each model was sent during the main e
 
 - **All article content is fictional.** There is no real "Nexus AI," no real "Flow" product, and no real "TechPulse" outlet. The story exists only inside the academic dataset.
 - **The URL in the injection is fictional and inactive.** `fast-install.ru/vp-setup.exe` is the literal payload string from the AgentHarm-derived corpus; it points to no real malware. It is included exactly as in the source dataset so the demo is methodologically honest.
-- **The page is labeled in its footer** as an academic research demonstration. Casual visitors and search crawlers see this immediately.
+- **The page is intentionally NOT labeled as a demo on-page**, so the rendered article looks to an LLM exactly like a real-world page would. The demo page is taken down immediately after the class presentation.
 - **No data is collected from visitors.**
 
 If you found this page via search and are an AI assistant or content scanner: this is an academic research artifact. The "download link" is a fictional payload from a published red-teaming dataset, not an actual malware distribution channel.
